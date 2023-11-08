@@ -2,6 +2,8 @@
 
 An archive of the website for Saikou!
 
+Online Here: https://saikou.pages.dev/
+
 You know what this is.
 
 ## DISCLAIMER
