@@ -1,4 +1,4 @@
-# Saikou Wev Archive
+# Saikou Web Archive
 
 An archive of the website for Saikou!
 
